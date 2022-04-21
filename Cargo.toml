@@ -18,7 +18,7 @@ solana-program = "1.8.0"
 spl-token = {version="3.2.0",features = [ "no-entrypoint" ]}
 thiserror = "1.0"
 uint = "0.8"
-anchor-lang = "0.18.2"
+anchor-lang = "0.24.2"
 borsh = "0.9"
 
 [dev-dependencies]
